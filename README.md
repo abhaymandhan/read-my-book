@@ -16,7 +16,7 @@ concepts of data product development with Python.
 
 #### [Providing book recommendations using K-Means](https://github.com/jadianes/book-recommender-recommender-tutorial/blob/master/tutorials/tutorial_3.md)  
 
-## Tags
+### Tags
 
 - [`stage-0`](https://github.com/jadianes/book-recommender-recommender-tutorial/tree/stage-0): an empty repo.  
 - [`stage-0.1`](https://github.com/jadianes/book-recommender-recommender-tutorial/tree/stage-0.1): a Django project with one app called `reviews`. The app defines model entities.  
